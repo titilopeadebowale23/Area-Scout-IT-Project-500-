@@ -37,6 +37,7 @@ In Development
 This repository contains project documentation, development tasks, issues, and other artifacts supporting the Area Scout project.
 
 Add Area Scout project requirements documentation
+Add PRD and Budget
 
 Contribution
 
