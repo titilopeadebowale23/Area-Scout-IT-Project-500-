@@ -36,6 +36,8 @@ Project Status
 In Development
 This repository contains project documentation, development tasks, issues, and other artifacts supporting the Area Scout project.
 
+Add Area Scout project requirements documentation
+
 Contribution
 
 Contributions are managed through GitHub Issues and Pull Requests. All project work should be linked to a relevant issue and reviewed before being merged.
